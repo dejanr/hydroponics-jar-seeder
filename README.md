@@ -6,7 +6,8 @@ Hydroponic jar seeder sized for a jar opening of 74 mm.
 
 - `jar_seeder.scad` — seeder cup with dense bottom hole pattern
 - `jar_seeder_lid.scad` — flat light-blocking germination lid with hollow ribbed inset
-- `dist/` — exported STL files
+- `dist/jar_seeder_74mm_x30.stl` — final seeder STL
+- `dist/jar_seeder_lid_74mm.stl` — final lid STL
 - `previews/` — rendered preview images
 
 ## Default model sizes
